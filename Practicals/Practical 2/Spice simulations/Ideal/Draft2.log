@@ -1,0 +1,58 @@
+Circuit: * C:\Users\liamb\Documents\University\2020\ENE\Practical 2\Spice simulations\Ideal\Draft2.asc
+
+Instance "m:u8:14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u8:12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u7:14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u7:12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:12": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+Gmin = 11.5292
+Gmin = 1.23794
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 1.23794
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Heightened Def Con from 0.494987 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 0.494987, timestep = 2.66205e-016: trouble with node "n002"
+
