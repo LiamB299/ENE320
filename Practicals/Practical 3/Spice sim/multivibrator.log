@@ -1,0 +1,24 @@
+Circuit: * C:\Users\liamb\Documents\University\2020\ENE\Practical 3\Spice sim\multivibrator.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+
+Date: Mon Jun 15 09:27:31 2020
+Total elapsed time: 0.203 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7462
+traniter = 7462
+tranpoints = 1964
+accept = 1454
+rejected = 508
+matrix size = 26
+fillins = 16
+solver = Normal
+Thread vector: 6.9/5.1[2] 2.3/4.1[1] 1.0/2.3[1] 0.1/1.0[1]  2592/500
+Matrix Compiler1: 2.21 KB object code size  0.5/0.3/[0.1]
+Matrix Compiler2: 2.76 KB object code size  0.3/0.3/[0.2]
+

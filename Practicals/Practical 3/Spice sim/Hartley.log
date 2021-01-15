@@ -1,0 +1,30 @@
+Circuit: * C:\Users\liamb\Documents\University\2020\ENE\Practical 3\Spice sim\Hartley.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+
+Date: Sun Jun 14 17:23:11 2020
+Total elapsed time: 7.889 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 189822
+traniter = 189822
+tranpoints = 61613
+accept = 43672
+rejected = 17933
+matrix size = 29
+fillins = 14
+solver = Normal
+Thread vector: 8.5/5.5[2] 2.7/3.1[1] 1.4/1.9[1] 0.1/1.1[1]  2592/500
+Matrix Compiler1: 3.25 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: 3.12 KB object code size  0.3/0.4/[0.2]
+
