@@ -1,2 +1,2 @@
 # ENE320
-Operational Amplifier Design and Simulation
+Operational Amplifier Filter Design and Simulation
